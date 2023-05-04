@@ -1,0 +1,8 @@
+/build
+/public/build
+
+/.*/
+*lock.json
+*.config.js
+server.js
+*.js

@@ -1,0 +1,10 @@
+{
+  "semi": true,
+  "trailingComma": "all",
+  "indent": 2,
+  "tabWidth": 2,
+  "printWidth": 100,
+  "singleQuote": false,
+  "bracketSpacing": true,
+  "importOrder": []
+}
